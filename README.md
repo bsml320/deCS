@@ -12,7 +12,7 @@ install.packages("ggplot2")
 ### deCS R package can be easily installed from Github using devtools:
 ```
 # install.packages("devtools")        
-devtools::install_github("GuangshengPei/deCS")
+devtools::install_github("bsml320/deCS")
 ```
 ### Getting Started 
 Once we have the package installed, we can load the package. 
